@@ -41,7 +41,7 @@ c = 10;
 % Propiedades comutativa
 p_comutativa = "a+ b = b + a" ;
 p_comutativa22 = "a b - b a";
-disp ("Propiedades comutativa")
+disp ("Propiedades comutativa");
 a = 10;
 b = 5;
 a + b
@@ -95,6 +95,17 @@ a > c
 p_tricotomia = "a > b";
 p_tricotomia2 = "a = b";
 p_tricotomia3 = "a > b";
+disp('a>b');
+if (a>b)
+  disp('Verdadero');
+ else
+  disp('Falso');
+endif
+disp('a<b');
+if (a<b)
+  disp('Verdadero');
+ else
+  disp('Falso');
 
 %signos de agrupación 
 s_agrupacion = "{ [ ( ) ] }";
