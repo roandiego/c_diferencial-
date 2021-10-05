@@ -1,6 +1,5 @@
 %Octave Script 
 %Title                :Clasificacion de los numeros
-disp ("Clasificacion de los numeros")
 %Descripcion          :Script para recordar los numeros (axiomas)
 %Author               :Diego Romero Antonio 
 %Date                 :202123778
